@@ -1,11 +1,15 @@
 ## C++ Food Vending Machine Program - Group + Individual Enhancement
 
-#### Individual Enhancement:
+### Overview
+
+Advanced programming technique’s course project developed in C++ for user to view food menu, purchase meal, save menu and balance into .dat file. Functionalities Include adding new food, removing existing food, viewing vending machine’s balance and enable/disable help message are available for admin users. Doubly-linked lists and Vector ADT are used for efficient insertion, deletion, accessor and mutator methods of food and balance data. C++14 pointers and heap memory are utilised for dynamic memory allocation. Command design pattern is used for main menu options to adhere to single responsibility, and open/closed principles. Testings are conducted to ensure appropriate exception handling and program behaviour. Achieved “High Distinction” grade for the project.
+
+### Individual Enhancement
 - Minor Enhancement:
   - 4.1.1 Help!
  
     Whenever there is a user prompt, the user may type “help” and the program should display some text to help
-    the user determine what they commands they may execute.
+    the user determine what they commands they may execute. This enhancement could be enable/disable at runtime.
 - Major Enhancement:
   - 4.2.2 Doubly-linked list
  
@@ -24,7 +28,7 @@
     for a further explanation. Please note that while the example provided uses the idea of ‘buttons’, it can just as
     easily be applied to menu items.
 
-Information for compiling and running the program.
+### Information for compiling and running the program
 
 To compile the program, you need to run the following command:
 
