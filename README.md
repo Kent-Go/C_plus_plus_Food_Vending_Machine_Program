@@ -1,6 +1,4 @@
-## COSC1076 | Semester 1 2024 | Advanced Programming Techniques
-
-### Assignment 2 Vending Machine - Milestone 3 - Individual Enhancement
+## C++ Food Vending Machine Program - Group + Individual Enhancement
 
 #### Individual Enhancement:
 - Minor Enhancement:
