@@ -1,0 +1,73 @@
+Main Menu: 
+   1. Display Meal Options 
+   2. Purchase Meal 
+   3. Save and Exit 
+Administrator-Only Menu: 
+   4. Add Food 
+   5. Remove Food 
+   6. Display Balance 
+   7. Enable Help Message 
+   8. Abort Program 
+Select your option (1-8): Enter the food id of the food to remove from the menu: Invalid input. Please enter a valid food id.
+Enter the food id of the food to remove from the menu: 
+Main Menu: 
+   1. Display Meal Options 
+   2. Purchase Meal 
+   3. Save and Exit 
+Administrator-Only Menu: 
+   4. Add Food 
+   5. Remove Food 
+   6. Display Balance 
+   7. Enable Help Message 
+   8. Abort Program 
+Select your option (1-8): Help message configuration is enabled. Type "help" to display the command guideline in Main Menu, Purchase Meal, Add Food and Remove Food.
+
+Main Menu: 
+   1. Display Meal Options 
+   2. Purchase Meal 
+   3. Save and Exit 
+Administrator-Only Menu: 
+   4. Add Food 
+   5. Remove Food 
+   6. Display Balance 
+   7. Disable Help Message 
+   8. Abort Program 
+Select your option (1-8): Enter the food id of the food to remove from the menu: Please enter a food ID. A list of food ID is available in meal options (Main Menu Option 1).
+
+Enter the food id of the food to remove from the menu: "F0001 – Rich middle eastern cake of thin layers of flaky pastry filled with nuts and honey" has been removed from the system.
+
+Main Menu: 
+   1. Display Meal Options 
+   2. Purchase Meal 
+   3. Save and Exit 
+Administrator-Only Menu: 
+   4. Add Food 
+   5. Remove Food 
+   6. Display Balance 
+   7. Disable Help Message 
+   8. Abort Program 
+Select your option (1-8): Help message configuration is disabled.
+
+Main Menu: 
+   1. Display Meal Options 
+   2. Purchase Meal 
+   3. Save and Exit 
+Administrator-Only Menu: 
+   4. Add Food 
+   5. Remove Food 
+   6. Display Balance 
+   7. Enable Help Message 
+   8. Abort Program 
+Select your option (1-8): Enter the food id of the food to remove from the menu: Invalid input. Please enter a valid food id.
+Enter the food id of the food to remove from the menu: 
+Main Menu: 
+   1. Display Meal Options 
+   2. Purchase Meal 
+   3. Save and Exit 
+Administrator-Only Menu: 
+   4. Add Food 
+   5. Remove Food 
+   6. Display Balance 
+   7. Enable Help Message 
+   8. Abort Program 
+Select your option (1-8): 

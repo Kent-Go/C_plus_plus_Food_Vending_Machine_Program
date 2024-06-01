@@ -1,0 +1,83 @@
+Main Menu: 
+   1. Display Meal Options 
+   2. Purchase Meal 
+   3. Save and Exit 
+Administrator-Only Menu: 
+   4. Add Food 
+   5. Remove Food 
+   6. Display Balance 
+   7. Enable Help Message 
+   8. Abort Program 
+Select your option (1-8): This new meal item will have the Item id of F0008
+Enter the item name: Enter the item description: Enter the price for this item (in dollars and cents): Invalid input. Please enter a valid price (in cents) with a decimal point and digits only.
+
+Enter the price for this item (in dollars and cents): 
+Main Menu: 
+   1. Display Meal Options 
+   2. Purchase Meal 
+   3. Save and Exit 
+Administrator-Only Menu: 
+   4. Add Food 
+   5. Remove Food 
+   6. Display Balance 
+   7. Enable Help Message 
+   8. Abort Program 
+Select your option (1-8): Help message configuration is enabled. Type "help" to display the command guideline in Main Menu, Purchase Meal, Add Food and Remove Food.
+
+Main Menu: 
+   1. Display Meal Options 
+   2. Purchase Meal 
+   3. Save and Exit 
+Administrator-Only Menu: 
+   4. Add Food 
+   5. Remove Food 
+   6. Display Balance 
+   7. Disable Help Message 
+   8. Abort Program 
+Select your option (1-8): This new meal item will have the Item id of F0008
+Enter the item name: Please enter the food item name. The name must not exceed 40 characters.
+
+Enter the item name: Enter the item description: Please enter the food item description. The description must not exceed 255 characters.
+
+Enter the item description: Enter the price for this item (in dollars and cents): Please enter the amount for this item's price. The dollar and cent must be separated by "." E.g. 15.20
+
+Enter the price for this item (in dollars and cents): 
+This item "Kebab - A very famous meal in the world" has now been added to the food menu
+
+Main Menu: 
+   1. Display Meal Options 
+   2. Purchase Meal 
+   3. Save and Exit 
+Administrator-Only Menu: 
+   4. Add Food 
+   5. Remove Food 
+   6. Display Balance 
+   7. Disable Help Message 
+   8. Abort Program 
+Select your option (1-8): Help message configuration is disabled.
+
+Main Menu: 
+   1. Display Meal Options 
+   2. Purchase Meal 
+   3. Save and Exit 
+Administrator-Only Menu: 
+   4. Add Food 
+   5. Remove Food 
+   6. Display Balance 
+   7. Enable Help Message 
+   8. Abort Program 
+Select your option (1-8): This new meal item will have the Item id of F0009
+Enter the item name: Enter the item description: Enter the price for this item (in dollars and cents): Invalid input. Please enter a valid price (in cents) with a decimal point and digits only.
+
+Enter the price for this item (in dollars and cents): 
+Main Menu: 
+   1. Display Meal Options 
+   2. Purchase Meal 
+   3. Save and Exit 
+Administrator-Only Menu: 
+   4. Add Food 
+   5. Remove Food 
+   6. Display Balance 
+   7. Enable Help Message 
+   8. Abort Program 
+Select your option (1-8): 

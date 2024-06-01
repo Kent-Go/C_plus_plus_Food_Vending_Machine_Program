@@ -1,0 +1,101 @@
+Main Menu: 
+   1. Display Meal Options 
+   2. Purchase Meal 
+   3. Save and Exit 
+Administrator-Only Menu: 
+   4. Add Food 
+   5. Remove Food 
+   6. Display Balance 
+   7. Enable Help Message 
+   8. Abort Program 
+Select your option (1-8): Purchase Meal
+-------------
+Please enter the ID of the food you wish to purchase(or leave empty to cancel):
+Invalid input. The ID entered doesn't correspond to any item on our menu.
+Please enter the ID of the food you wish to purchase(or leave empty to cancel):
+
+Main Menu: 
+   1. Display Meal Options 
+   2. Purchase Meal 
+   3. Save and Exit 
+Administrator-Only Menu: 
+   4. Add Food 
+   5. Remove Food 
+   6. Display Balance 
+   7. Enable Help Message 
+   8. Abort Program 
+Select your option (1-8): Help message configuration is enabled. Type "help" to display the command guideline in Main Menu, Purchase Meal, Add Food and Remove Food.
+
+Main Menu: 
+   1. Display Meal Options 
+   2. Purchase Meal 
+   3. Save and Exit 
+Administrator-Only Menu: 
+   4. Add Food 
+   5. Remove Food 
+   6. Display Balance 
+   7. Disable Help Message 
+   8. Abort Program 
+Select your option (1-8): Purchase Meal
+-------------
+Please enter the ID of the food you wish to purchase(or leave empty to cancel):
+Please enter a food ID. A list of food ID is available in meal options (Main Menu Option 1).
+
+Please enter the ID of the food you wish to purchase(or leave empty to cancel):
+You have selected "Baklava - Rich middle eastern cake of thin layers of flaky pastry filled with nuts and honey". This will cost you $8.50.
+Please hand over the money - type in the value of each note/coin in cents.
+Please enter Ctrl+D or enter on a new line to cancel this purchase.
+You still need to give us $8.50.: Please enter the valid amount in note or coin.
+You may enter:
+  - 5000 for $50
+  - 2000 for $20
+  - 1000 for $10
+  - 500  for $5
+  - 200  for $2
+  - 100  for $1
+  - 50   for 50c
+  - 20   for 20c
+  - 10   for 10c
+  - 5    for 5c
+
+You still need to give us $8.50.: Your change is: $1 50c 
+
+Main Menu: 
+   1. Display Meal Options 
+   2. Purchase Meal 
+   3. Save and Exit 
+Administrator-Only Menu: 
+   4. Add Food 
+   5. Remove Food 
+   6. Display Balance 
+   7. Disable Help Message 
+   8. Abort Program 
+Select your option (1-8): Help message configuration is disabled.
+
+Main Menu: 
+   1. Display Meal Options 
+   2. Purchase Meal 
+   3. Save and Exit 
+Administrator-Only Menu: 
+   4. Add Food 
+   5. Remove Food 
+   6. Display Balance 
+   7. Enable Help Message 
+   8. Abort Program 
+Select your option (1-8): Purchase Meal
+-------------
+Please enter the ID of the food you wish to purchase(or leave empty to cancel):
+Invalid input. The ID entered doesn't correspond to any item on our menu.
+Please enter the ID of the food you wish to purchase(or leave empty to cancel):
+
+Main Menu: 
+   1. Display Meal Options 
+   2. Purchase Meal 
+   3. Save and Exit 
+Administrator-Only Menu: 
+   4. Add Food 
+   5. Remove Food 
+   6. Display Balance 
+   7. Enable Help Message 
+   8. Abort Program 
+Select your option (1-8): 
